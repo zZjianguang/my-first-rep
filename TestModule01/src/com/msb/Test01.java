@@ -9,4 +9,5 @@ package com.msb;
 public class Test01 {
     private String name;
     private  int age;
+    private double height;
 }
