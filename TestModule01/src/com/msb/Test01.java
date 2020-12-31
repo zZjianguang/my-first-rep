@@ -7,4 +7,6 @@ package com.msb;
  * @version: 1.0
  */
 public class Test01 {
+    private String name;
+    private  int age;
 }
